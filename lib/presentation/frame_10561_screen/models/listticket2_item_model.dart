@@ -1,0 +1,1 @@
+class Listticket2ItemModel {}
